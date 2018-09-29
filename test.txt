@@ -4,4 +4,4 @@ SST-Adapter: 15.0.3
 
 Beispiel: 15.0.7
 
-MigSuite: 2.1.9.p01
+MigSuite: 2.1.9.p04
