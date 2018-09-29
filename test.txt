@@ -1,7 +1,7 @@
-Version: 14.1.9.p03
+Version: 15.0.0.a03
 
-SST-Adapter: 14.1.8
+SST-Adapter: 15.0.1
 
-Beispiel: 14.1.16
+Beispiel: 15.0.3
 
 MigSuite: 2.1.9.p01
