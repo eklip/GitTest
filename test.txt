@@ -1,0 +1,5 @@
+Version: 14.1.9.p03
+
+SST-Adapter: 14.1.8
+
+Beispiel: 14.1.16
